@@ -244,7 +244,6 @@ label[for="drop-nav"] {
         max-width: 992px;
     }
 }
-}
 
 @media (max-width: 992px) {
     .container {
@@ -264,7 +263,6 @@ label[for="drop-nav"] {
     .portfolio-wrapper .portfolio-item {
         flex-basis: 100%;
     }
-}
 }
 
 @media (max-width: 480px) {
